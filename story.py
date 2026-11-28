@@ -11,6 +11,7 @@ location = "crossroads"
 print("\n" + "-"*35)
 print("˚˖𓍢ִ໋ ยินดีต้ินรับสู่ป่ามหัศจรรย์แห่งแสงดาว˚★⋆")
 name = input("ตั้งชื่อตัวละครของคุณ: ")
+print("=== QUEST ! ====")
 print(f"สวัสดี {name}! คุณยายแม่มดฝากให้คุณไปหา 'ผลไม้กากเพชร' ในป่า ₊˚⊹")
 print("suggestion: go to every location")
 time.sleep(1.25)
